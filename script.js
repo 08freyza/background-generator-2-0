@@ -35,6 +35,6 @@ setGradient();
 
 color1.addEventListener("input", setGradient);
 
-color2.addEventListener("input", randGradient);
+color2.addEventListener("input", setGradient);
 
 buttonC.addEventListener("click", randGradient);
